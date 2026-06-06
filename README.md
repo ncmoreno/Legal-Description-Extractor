@@ -7,12 +7,12 @@ LOT 12, BLOCK 3, MEADOWS SEC 4, FORT BEND COUNTY
 
 Output:
 {
-  "lot": "12",
-  "block": "3",
-  "section": "4",
   "subdivision": "MEADOWS",
+  "section": "4",
+  "block": "3",
+  "lot": "12",
   "county": "Fort Bend",
-  "unit": null
+  "raw": "MEADOWS SEC 4, BLOCK 3, LOT 12, FORT BEND COUNTY"
 }
 
 ## Why this exists
@@ -27,6 +27,7 @@ This tool provides a quick way to normalize them for:
 ## Usage
 Run the script:
 extractor.py
+
 Paste a legal description when prompted.
 
 ## Notes
