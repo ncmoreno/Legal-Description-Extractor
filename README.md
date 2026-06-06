@@ -7,12 +7,19 @@ LOT 12, BLOCK 3, MEADOWS SEC 4, FORT BEND COUNTY
 
 Output:
 {
-  "subdivision": "MEADOWS",
-  "section": "4",
-  "block": "3",
-  "lot": "12",
-  "county": "Fort Bend",
-  "raw": "MEADOWS SEC 4, BLOCK 3, LOT 12, FORT BEND COUNTY"
+
+    "subdivision": "MEADOWS",
+    
+    "section": "4",
+    
+    "block": "3",
+    
+    "lot": "12",
+    
+    "county": "Fort Bend",
+    
+    "raw": "MEADOWS SEC 4, BLOCK 3, LOT 12, FORT BEND COUNTY"
+  
 }
 
 ## Why this exists
